@@ -15,7 +15,7 @@ It's a project I created in 2016 while learning the basics of python. The code i
 # More information
 It was my research project for 2nd year of HND in Sport, the project outline document is available in this repository.  
 
-It worked with 9 different leagues and collected data from 3 different sources. It was a challenge to link information from these sources with each other because each website/service used slightly different team names or date formats. In the end I got it working and evaluated its' performance by making large number of small bets (around 200, see [bets_log.txt](./src/bets_log.txt)) suggested by the system, but unfortunately it did not generate profit.   
+It worked with 9 different leagues and collected data from 3 different sources. It was a challenge to link information from these sources with each other because each website/service used slightly different team names or date formats. In the end I got it working and evaluated its' performance by making large number of small bets (around 200, see [bets_log.txt](./src/bets-log.txt)) suggested by the system, but unfortunately it did not generate profit.   
 
 Before the practical/manual evaluation of system performance was undertaken, the system did self-evaluation by using historical data and pretending that results of games past specific date are not known yet. This way the system could check if it would make any profit if it sticked to placing bets suggested by itself. This type of evaluation was used by me to adjust parameters used to generate odds.  
 
