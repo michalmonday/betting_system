@@ -1,0 +1,184 @@
+list index out of range
+
+https://www.whoscored.com/Matches/1192429/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1193331/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1192333/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1085037/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1085161/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1085032/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1085093/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1084948/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/959126/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/959268/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/959243/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/830419/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/830423/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/830372/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/830348/live
+
+
+
+Message: timeout
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/830329/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/830072/live
+
+
+
+Message: unknown error: session deleted because of page crash
+from tab crashed
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/830008/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/830103/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/830444/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/829973/live
+
+
+
+Message: timeout
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/721501/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/721417/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/721347/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/721276/live
+
+
+
+Message: timeout
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/721260/live
+
+
+
+Message: timeout
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/721100/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/720343/live
+
+
+

@@ -1,0 +1,292 @@
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Regions/108/Tournaments/5/Seasons/6974/Stages/15404/Fixtures/Italy-Serie-A-2017-2018
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/1225152/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1115290/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1115256/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/1115194/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/1006269/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/1006231/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/1006114/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/1005998/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/1005938/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/866026/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/866029/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/866004/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/865900/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/865843/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758344/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/758329/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758235/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/758202/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/758307/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758207/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758304/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/758298/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758163/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758139/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758126/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758183/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/758020/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/651829/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/651674/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/651508/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/543214/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/542932/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/542846/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/443482/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/443486/live
+
+

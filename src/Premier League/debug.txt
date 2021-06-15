@@ -1,0 +1,96 @@
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/959876/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/829817/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/829756/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/829732/live
+
+
+
+object of type 'NoneType' has no len()
+
+https://www.whoscored.com/Matches/615296/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/615189/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/507333/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/506918/live
+
+
+
+[Errno 10054] An existing connection was forcibly closed by the remote host
+
+https://www.whoscored.com/Matches/506262/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/506209/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/506045/live
+
+
+
+list index out of range
+
+https://www.whoscored.com/Matches/506059/live
+
+
+
+Message: timeout
+  (Session info: chrome=60.0.3112.113)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+
+
+https://www.whoscored.com/Matches/411347/live
+
+
+

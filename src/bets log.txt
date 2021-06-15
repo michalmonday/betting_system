@@ -1,0 +1,257 @@
+
+
+
+
+
+
+Championship
+HOME, 01/10/16, Rotherham, Newcastle, Bet365 odds=6.5, Marathon odds=6.8
+
+Ligue 1
+AWAY, 01/10/16, Lille, Nancy, Bet365 odds=5.0, Marathon odds=5.2
+AWAY, 01/10/16, Nantes, Bastia, Bet365 odds=4.5, Marathon odds=4.85
+
+Eredivisie
+AWAY, 01/10/16, Vitesse, Groningen, Bet365 odds=4.75, Marathon odds=5.1
+HOME, 01/10/16, Heerenveen, PSV Eindhoven, Bet365 odds=4.75, Marathon odds=5.3
+
+AWAY, 30/09/16, Zwolle, Den Haag, Bet365 odds=3.0, Marathon odds=3.2
+
+Championship
+AWAY, 28/09/16, Newcastle, Norwich, Bet365 odds=3.6, Marathon odds=3.75
+
+Ligue 1
+HOME, 30/09/16, Rennes, Guingamp, Bet365 odds=2.05, Marathon odds=2.1
+AWAY, 01/10/16, Caen, Toulouse, Bet365 odds=2.63, Marathon odds=3.06
+HOME, 01/10/16, Dijon, Montpellier, Bet365 odds=2.55, Marathon odds=2.75
+HOME, 01/10/16, Metz, Monaco, Bet365 odds=4.5, Marathon odds=4.4
+AWAY, 02/10/16, Angers, Marseille, Bet365 odds=2.7, Marathon odds=2.97
+HOME, 02/10/16, Nice, Lorient, Bet365 odds=1.75, Marathon odds=1.94
+
+Eredivisie
+AWAY, 30/09/16, Zwolle, Den Haag, Bet365 odds=3.1, Marathon odds=0.0
+AWAY, 01/10/16, Roda, Nijmegen, Bet365 odds=3.6, Marathon odds=0.0
+AWAY, 01/10/16, Go Ahead Eagles, Excelsior, Bet365 odds=3.0, Marathon odds=0.0
+AWAY, 02/10/16, Heracles, Twente, Bet365 odds=3.8, Marathon odds=0.0
+
+
+
+
+
+Championship
+HOME, 27/09/16, Barnsley, Aston Villa, Bet365 odds=2.8, Marathon odds=2.95
+HOME, 27/09/16, Birmingham, Preston, Bet365 odds=2.1, Marathon odds=2.2
+AWAY, 27/09/16, Blackburn, Sheffield Weds, Bet365 odds=2.1, Marathon odds=2.25
+HOME, 27/09/16, Brentford, Reading, Bet365 odds=2.3, Marathon odds=2.39
+HOME, 27/09/16, Bristol City, Leeds, Bet365 odds=2.1, Marathon odds=2.15
+HOME, 27/09/16, Burton, QPR, Bet365 odds=2.5, Marathon odds=2.62
+AWAY, 27/09/16, Cardiff, Derby, Bet365 odds=2.63, Marathon odds=2.7
+AWAY, 27/09/16, Ipswich, Brighton, Bet365 odds=2.2, Marathon odds=2.23
+HOME, 27/09/16, Nott'm Forest, Fulham, Bet365 odds=2.3, Marathon odds=2.42
+AWAY, 27/09/16, Wigan, Wolves, Bet365 odds=2.6, Marathon odds=2.7
+HOME, 01/10/16, Fulham, QPR, Bet365 odds=2.2, Marathon odds=0.0
+HOME, 01/10/16, Birmingham, Blackburn, Bet365 odds=1.91, Marathon odds=0.0
+HOME, 01/10/16, Brentford, Wigan, Bet365 odds=2.1, Marathon odds=0.0
+HOME, 01/10/16, Bristol City, Nott'm Forest, Bet365 odds=2.0, Marathon odds=0.0
+HOME, 01/10/16, Burton, Cardiff, Bet365 odds=2.5, Marathon odds=0.0
+HOME, 01/10/16, Ipswich, Huddersfield, Bet365 odds=2.5, Marathon odds=0.0
+AWAY, 01/10/16, Leeds, Barnsley, Bet365 odds=3.25, Marathon odds=0.0
+AWAY, 01/10/16, Preston, Aston Villa, Bet365 odds=2.3, Marathon odds=0.0
+HOME, 01/10/16, Reading, Derby, Bet365 odds=2.5, Marathon odds=0.0
+AWAY, 01/10/16, Sheffield Weds, Brighton, Bet365 odds=2.8, Marathon odds=0.0
+HOME, 01/10/16, Wolves, Norwich, Bet365 odds=2.9, Marathon odds=0.0
+
+
+
+Portuguese
+HOME, 24/09/16, Chaves, Benfica, Bet365 odds=7.5, Marathon odds=0.0
+AWAY, 25/09/16, Maritimo, Tondela, Bet365 odds=3.75, Marathon odds=3.96
+AWAY, 25/09/16, Pacos Ferreira, Rio Ave, Bet365 odds=2.55, Marathon odds=2.71
+AWAY, 25/09/16, Moreirense, Guimaraes, Bet365 odds=2.55, Marathon odds=2.69
+AWAY, 26/09/16, Belenenses, Arouca, Bet365 odds=3.4, Marathon odds=3.44
+
+
+
+Super Lig
+AWAY, 24/09/16, Besiktas, Galatasaray, Bet365 odds=3.8, Marathon odds=0.0
+AWAY, 25/09/16, Kayserispor, Rizespor, Bet365 odds=4.6, Marathon odds=0.0
+AWAY, 25/09/16, Genclerbirligi, Karabukspor, Bet365 odds=3.8, Marathon odds=0.0
+
+
+
+Serie A
+HOME, 02/10/16, Cagliari, Crotone, Bet365 odds=1.55, Marathon odds=1.57
+
+
+
+Eredivisie
+HOME, 24/09/16, Den Haag, Heerenveen, Bet365 odds=2.3, Marathon odds=2.4
+HOME, 24/09/16, Groningen, Heracles, Bet365 odds=2.0, Marathon odds=2.04
+HOME, 25/09/16, Nijmegen, Willem II, Bet365 odds=2.5, Marathon odds=2.57
+HOME, 25/09/16, Twente, Vitesse, Bet365 odds=3.2, Marathon odds=3.32
+HOME, 25/09/16, Utrecht, Sparta Rotterdam, Bet365 odds=1.8, Marathon odds=1.81
+
+
+
+AWAY, 23/09/16, Preston, Wigan, Bet365 odds=3.2, Marathon odds=3.2
+AWAY, 24/09/16, Brighton, Barnsley, Bet365 odds=5.75, Marathon odds=5.6
+AWAY, 24/09/16, Derby, Blackburn, Bet365 odds=6.0, Marathon odds=6.3
+HOME, 24/09/16, Fulham, Bristol City, Bet365 odds=2.25, Marathon odds=2.25
+AWAY, 24/09/16, Leeds, Ipswich, Bet365 odds=3.2, Marathon odds=3.3
+AWAY, 24/09/16, QPR, Birmingham, Bet365 odds=3.0, Marathon odds=3.05
+AWAY, 24/09/16, Reading, Huddersfield, Bet365 odds=3.0, Marathon odds=3.1
+HOME, 24/09/16, Rotherham, Cardiff, Bet365 odds=3.1, Marathon odds=3.0
+AWAY, 24/09/16, Sheffield Weds, Nott'm Forest, Bet365 odds=5.75, Marathon odds=5.5
+HOME, 24/09/16, Wolves, Brentford, Bet365 odds=2.3, Marathon odds=2.29
+
+Premier League
+AWAY, 01/10/16, Sunderland, West Brom, Bet365 odds=2.88, Marathon odds=2.97
+
+Serie A
+AWAY, 01/10/16, Pescara, Chievo, Bet365 odds=2.63, Marathon odds=2.81
+AWAY, 02/10/16, Bologna, Genoa, Bet365 odds=2.7, Marathon odds=3.12
+HOME, 02/10/16, Roma, Inter, Bet365 odds=1.95, Marathon odds=2.3
+
+La Liga
+
+Bundesliga
+HOME, 30/09/16, RB Leipzig, Augsburg, Bet365 odds=1.73, Marathon odds=1.84
+HOME, 01/10/16, Darmstadt, Werder Bremen, Bet365 odds=2.6, Marathon odds=2.74
+AWAY, 01/10/16, Freiburg, Ein Frankfurt, Bet365 odds=3.0, Marathon odds=3.08
+AWAY, 01/10/16, Leverkusen, Dortmund, Bet365 odds=1.91, Marathon odds=2.0
+AWAY, 02/10/16, Schalke 04, M'gladbach, Bet365 odds=3.0, Marathon odds=3.2
+
+Ligue 1
+AWAY, 24/09/16, Dijon, Rennes, Bet365 odds=2.6, Marathon odds=2.75
+
+
+
+Serie A
+HOME, 25/09/16, Inter, Bologna, Bet365 odds=1.45, Marathon odds=1.45
+AWAY, 01/10/16, Udinese, Lazio, Bet365 odds=2.35, Marathon odds=2.62
+AWAY, 02/10/16, Milan, Sassuolo, Bet365 odds=4.33, Marathon odds=4.85
+HOME, 02/10/16, Torino, Fiorentina, Bet365 odds=2.38, Marathon odds=2.45
+
+La Liga
+HOME, 30/09/16, Sociedad, Betis, Bet365 odds=1.8, Marathon odds=1.95
+AWAY, 01/10/16, Granada, Leganes, Bet365 odds=2.9, Marathon odds=3.38
+HOME, 01/10/16, Sevilla, Alaves, Bet365 odds=1.44, Marathon odds=1.48
+AWAY, 01/10/16, Osasuna, Las Palmas, Bet365 odds=2.45, Marathon odds=2.64
+HOME, 01/10/16, La Coruna, Sp Gijon, Bet365 odds=1.95, Marathon odds=2.1
+AWAY, 02/10/16, Espanol, Villarreal, Bet365 odds=2.55, Marathon odds=2.5
+AWAY, 02/10/16, Malaga, Ath Bilbao, Bet365 odds=2.5, Marathon odds=2.5
+
+Bundesliga
+HOME, 24/09/16, M'gladbach, Ingolstadt, Bet365 odds=1.75, Marathon odds=1.75
+AWAY, 01/10/16, Ingolstadt, Hoffenheim, Bet365 odds=3.25, Marathon odds=3.35
+
+Ligue 1
+HOME, 24/09/16, Lorient, Lyon, Bet365 odds=4.2, Marathon odds=4.25
+AWAY, 24/09/16, Montpellier, Metz, Bet365 odds=5.75, Marathon odds=5.5
+
+
+Bet365, HOME, 19/09/16, Alaves, La Coruna, Bet365 odds=2.3, Marathon odds=2.43
+Bet365, HOME, 20/09/16, Malaga, Eibar, Bet365 odds=1.8, Marathon odds=1.9
+Bet365, AWAY, 20/09/16, Sevilla, Betis, Bet365 odds=6.5, Marathon odds=6.9
+Bet365, HOME, 21/09/16, Barcelona, Ath Madrid, Bet365 odds=1.62, Marathon odds=1.66
+Bet365, HOME, 20/09/16, Wolfsburg, Dortmund, Bet365 odds=4.75, Marathon odds=4.9
+Bet365, AWAY, 20/09/16, Darmstadt, Hoffenheim, Bet365 odds=2.2, Marathon odds=2.17
+Bet365, AWAY, 20/09/16, Milan, Lazio, Bet365 odds=3.4, Marathon odds=3.58
+Bet365, HOME, 20/09/16, Freiburg, Hamburg, Bet365 odds=2.3, Marathon odds=2.34
+Bet365, AWAY, 20/09/16, Ingolstadt, Ein Frankfurt, Bet365 odds=3.4, Marathon odds=3.6
+Bet365, AWAY, 21/09/16, Chievo, Sassuolo, Bet365 odds=3.2, Marathon odds=3.24
+
+Premier League
+HOME, 24/09/16, Man United, Leicester, Bet365 odds=1.67, Marathon odds=1.73
+AWAY, 24/09/16, Bournemouth, Everton, Bet365 odds=2.1, Marathon odds=2.2
+AWAY, 24/09/16, Liverpool, Hull, Bet365 odds=15.0, Marathon odds=14.5
+AWAY, 24/09/16, Stoke, West Brom, Bet365 odds=3.2, Marathon odds=3.38
+AWAY, 24/09/16, Sunderland, Crystal Palace, Bet365 odds=2.38, Marathon odds=2.65
+HOME, 25/09/16, West Ham, Southampton, Bet365 odds=3.25, Marathon odds=3.42
+HOME, 26/09/16, Burnley, Watford, Bet365 odds=3.25, Marathon odds=3.3
+
+Serie A
+AWAY, 20/09/16, Milan, Lazio, Bet365 odds=3.4, Marathon odds=3.58
+AWAY, 21/09/16, Bologna, Sampdoria, Bet365 odds=3.1, Marathon odds=3.32
+AWAY, 21/09/16, Atalanta, Palermo, Bet365 odds=5.75, Marathon odds=6.1
+AWAY, 21/09/16, Chievo, Sassuolo, Bet365 odds=3.2, Marathon odds=3.24
+AWAY, 21/09/16, Empoli, Inter, Bet365 odds=1.91, Marathon odds=1.97
+HOME, 21/09/16, Genoa, Napoli, Bet365 odds=4.75, Marathon odds=4.9
+AWAY, 21/09/16, Pescara, Torino, Bet365 odds=2.3, Marathon odds=2.46
+AWAY, 21/09/16, Udinese, Fiorentina, Bet365 odds=2.3, Marathon odds=2.39
+AWAY, 25/09/16, Torino, Roma, Bet365 odds=2.05, Marathon odds=2.2
+HOME, 25/09/16, Genoa, Pescara, Bet365 odds=1.55, Marathon odds=1.6
+HOME, 25/09/16, Lazio, Empoli, Bet365 odds=1.5, Marathon odds=1.51
+HOME, 25/09/16, Sassuolo, Udinese, Bet365 odds=1.8, Marathon odds=1.86
+HOME, 25/09/16, Fiorentina, Milan, Bet365 odds=2.15, Marathon odds=2.3
+HOME, 26/09/16, Crotone, Atalanta, Bet365 odds=3.8, Marathon odds=4.0
+HOME, 26/09/16, Cagliari, Sampdoria, Bet365 odds=2.25, Marathon odds=2.5
+
+Bundesliga
+AWAY, 20/09/16, Darmstadt, Hoffenheim, Bet365 odds=2.0, Marathon odds=2.15
+HOME, 20/09/16, Freiburg, Hamburg, Bet365 odds=2.3, Marathon odds=2.35
+AWAY, 20/09/16, Ingolstadt, Ein Frankfurt, Bet365 odds=3.4, Marathon odds=3.6
+HOME, 20/09/16, Wolfsburg, Dortmund, Bet365 odds=4.75, Marathon odds=4.5
+HOME, 21/09/16, RB Leipzig, M'gladbach, Bet365 odds=2.4, Marathon odds=2.5
+AWAY, 21/09/16, Schalke 04, FC Koln, Bet365 odds=3.6, Marathon odds=3.64
+AWAY, 21/09/16, Werder Bremen, Mainz, Bet365 odds=2.3, Marathon odds=2.43
+AWAY, 24/09/16, Ein Frankfurt, Hertha, Bet365 odds=3.2, Marathon odds=3.35
+HOME, 24/09/16, Mainz, Leverkusen, Bet365 odds=3.3, Marathon odds=3.6
+AWAY, 24/09/16, Werder Bremen, Wolfsburg, Bet365 odds=2.0, Marathon odds=2.07
+HOME, 25/09/16, Hoffenheim, Schalke 04, Bet365 odds=3.5, Marathon odds=3.7
+HOME, 25/09/16, FC Koln, RB Leipzig, Bet365 odds=2.38, Marathon odds=2.41
+
+La Liga
+HOME, 19/09/16, Alaves, La Coruna, Bet365 odds=7.0, Marathon odds=5.8
+HOME, 20/09/16, Malaga, Eibar, Bet365 odds=1.8, Marathon odds=1.83
+AWAY, 20/09/16, Sevilla, Betis, Bet365 odds=6.5, Marathon odds=6.9
+AWAY, 21/09/16, Celta, Sp Gijon, Bet365 odds=6.0, Marathon odds=6.6
+HOME, 21/09/16, Barcelona, Ath Madrid, Bet365 odds=1.6, Marathon odds=1.63
+AWAY, 21/09/16, Sociedad, Las Palmas, Bet365 odds=3.75, Marathon odds=3.68
+HOME, 22/09/16, La Coruna, Leganes, Bet365 odds=2.1, Marathon odds=2.1
+HOME, 22/09/16, Osasuna, Espanol, Bet365 odds=3.2, Marathon odds=3.3
+HOME, 23/09/16, Betis, Malaga, Bet365 odds=2.3, Marathon odds=2.4
+HOME, 24/09/16, Eibar, Sociedad, Bet365 odds=2.5, Marathon odds=2.5
+AWAY, 24/09/16, Ath Bilbao, Sevilla, Bet365 odds=3.3, Marathon odds=3.45
+AWAY, 25/09/16, Leganes, Valencia, Bet365 odds=2.55, Marathon odds=2.65
+HOME, 25/09/16, Villarreal, Osasuna, Bet365 odds=1.5, Marathon odds=1.5
+HOME, 25/09/16, Espanol, Celta, Bet365 odds=2.3, Marathon odds=2.47
+HOME, 26/09/16, Alaves, Granada, Bet365 odds=2.1, Marathon odds=2.15
+
+Ligue 1
+HOME, 21/09/16, Angers, Caen, Bet365 odds=2.25, Marathon odds=2.34
+HOME, 21/09/16, Bastia, Nancy, Bet365 odds=2.4, Marathon odds=2.6
+HOME, 21/09/16, Guingamp, Lorient, Bet365 odds=2.05, Marathon odds=2.03
+HOME, 21/09/16, Metz, Bordeaux, Bet365 odds=3.2, Marathon odds=3.25
+AWAY, 21/09/16, Nantes, St Etienne, Bet365 odds=3.1, Marathon odds=3.2
+HOME, 21/09/16, Nice, Monaco, Bet365 odds=3.1, Marathon odds=3.35
+HOME, 21/09/16, Rennes, Marseille, Bet365 odds=2.2, Marathon odds=2.45
+AWAY, 24/09/16, Bastia, Guingamp, Bet365 odds=3.1, Marathon odds=3.2
+HOME, 24/09/16, Bordeaux, Caen, Bet365 odds=1.83, Marathon odds=1.9
+HOME, 25/09/16, St Etienne, Lille, Bet365 odds=2.2, Marathon odds=2.24
+AWAY, 25/09/16, Nancy, Nice, Bet365 odds=3.1, Marathon odds=3.02
+HOME, 25/09/16, Marseille, Nantes, Bet365 odds=1.91, Marathon odds=2.04
+
+
+AWAY, 24/09/16, Middlesbrough, Tottenham, Bet365 odds=2.0, Marathon odds=1.99
+HOME, 01/10/16, Swansea, Liverpool, Bet365 odds=6.0, Marathon odds=7.0
+HOME, 01/10/16, Hull, Chelsea, Bet365 odds=6.0, Marathon odds=7.6
+HOME, 01/10/16, Watford, Bournemouth, Bet365 odds=2.1, Marathon odds=2.25
+HOME, 01/10/16, West Ham, Middlesbrough, Bet365 odds=2.15, Marathon odds=2.18
+HOME, 02/10/16, Leicester, Southampton, Bet365 odds=2.0, Marathon odds=2.0
+HOME, 02/10/16, Tottenham, Man City, Bet365 odds=3.75, Marathon odds=3.6
+
+Serie A
+
+La Liga
+AWAY, 21/09/16, Granada, Ath Bilbao, Bet365 odds=2.0, Marathon odds=2.12
+AWAY, 22/09/16, Valencia, Alaves, Bet365 odds=7.0, Marathon odds=6.5
+
+Bundesliga
+HOME, 24/09/16, Augsburg, Darmstadt, Bet365 odds=1.7, Marathon odds=1.68
+
+La Liga
+HOME, 24/09/16, Sp Gijon, Barcelona, Bet365 odds=10.0, Marathon odds=12.0
+
+Bundesliga
+HOME, 01/10/16, Hertha, Hamburg, Bet365 odds=1.85, Marathon odds=0.0

@@ -1,0 +1,16 @@
+Database creation:
+1. historic_data_analyse.py - run Database.CreateNewDatabase(league)
+2. whoscored_get_match_links.py - Download all the links for "whoscored" pages for a specific league.
+3. whoscored_get_ratings.py - Download all the ratings to a separate file
+4. whoscored_convert_data.py - Generate lines
+5. whoscored_convert_data.py - Replace lines
+
+6. historic_data_analyse - update the database and fixtures
+
+7. If I wanted to add stats based on the whoscored ratings it would be like:
+	-create database
+	-add whoscored ratings to it
+	-calculate overall ratings based on the last 5-20 games and add it to the table
+Or change the scheme into:
+	-download all the ratings first
+	-create database with the ratings and do whatever I want with them (simpler solution)
